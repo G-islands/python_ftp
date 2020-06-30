@@ -7,4 +7,5 @@ Only support basic file upload and download.It can be used to manage the server 
 This project is the homework in Computer Network course.
 
 TODO:
-[] GUI
+
+- [ ] GUI
